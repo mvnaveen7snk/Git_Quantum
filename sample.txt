@@ -1,0 +1,1 @@
+Changes from terminal by git clone from local
